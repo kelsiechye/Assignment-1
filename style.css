@@ -1,0 +1,37 @@
+body{
+    background-color: #212738;
+    color: #f3f3f3;
+    font-family: 'Nixie One', cursive;
+    font-size: 140%;
+  }
+  
+  h2{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 300%;
+  }
+  
+  h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 180%;
+  }
+  
+  .mitakeRan{
+    color: #EE0022
+  }
+  .aobaMoca{
+    color: #00CCAA
+  }
+  .ueharaHimari{
+    color: #FF9999
+  }
+  .udagawaTomoe{
+    color: #BB0033
+  }
+  .hazawaTsugumi{
+    color: #FFEE88
+  }
+  
+  aside{
+    background-color: #FFDDDD;
+    color: #E53344;
+  }
