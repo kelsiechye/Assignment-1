@@ -13,6 +13,6 @@ The navigation bar allows for users to oijoswitch between the different pages ea
 The languages used are html and css
 # Credits
 Information for the whole website and images for the Discography section was taken from: https://bandori.fandom.com/wiki/Afterglow
-Other iumages taken from: bandori.party
+Other iumages taken from: https://bandori.party
 I recieved inspiration for this project from Bang Dream! by Bushiroad.
 
