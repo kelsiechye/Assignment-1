@@ -1,0 +1,67 @@
+a{
+    text-decoration: none;
+    color: #280003;
+    font-family: 'Bebas Neue', cursive;
+  }
+  
+nav{
+    font-size: 300%;
+    color: #280003;
+    font-family: 'Bebas Neue', cursive;
+    padding: 50px;
+    text-align: center;
+  }
+
+h1{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 300%;
+    color: #E53344;
+    text-shadow: 5px 5px 5px black;
+    text-align: center;
+  }
+
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 200%;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 150%;
+    text-align: center;
+}
+
+p{
+    font-family: 'Play', sans-serif;
+}
+
+body{
+    background-color: #FFDDDD;
+    font-family: 'Play', sans-serif;
+    font-size: 150%;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #280003;
+    border-radius: 12px;
+    width: 500px;
+    align-items: center;
+}
+
+img{
+    width: 250px;
+}
+
+.discography-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: center;
+    
+}
+

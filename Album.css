@@ -1,0 +1,30 @@
+a{
+    text-decoration: none;
+    color: #280003;
+    font-family: 'Bebas Neue', cursive;
+  }
+  
+nav{
+    font-size: 300%;
+    color: #280003;
+    font-family: 'Bebas Neue', cursive;
+    padding: 50px;
+    text-align: center;
+  }
+
+h1{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 300%;
+    color: #E53344;
+    text-shadow: 5px 5px 5px black;
+  }
+
+body{
+    background-color: #FFDDDD
+}
+
+article{
+    display: inline-block;
+    text-align: center;
+}
+

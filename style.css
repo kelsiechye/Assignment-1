@@ -1,37 +1,67 @@
 body{
-    background-color: #212738;
-    color: #f3f3f3;
+    background-color: #fff5f4;
+    color: #E53344;
     font-family: 'Nixie One', cursive;
     font-size: 140%;
   }
+
+header{
+  background-image: url("https://i.bandori.party/u/asset/782YXRAfterglow-Group-Visual-eJ0Ymq.jpg");
+  background-size: cover;
+}
+
+a{
+  text-decoration: none;
+  color: #280003;
+  font-family: 'Bebas Neue', cursive;
+}
+
+nav{
+  font-size: 300%;
+  color: #280003;
+  font-family: 'Bebas Neue', cursive;
+  padding: 50px;
+  text-align: center;
+}
+
   
   h2{
     font-family: 'Alfa Slab One', cursive;
     font-size: 300%;
+    color: #280003;
+    text-shadow: 5px 5px 5px white;
+    padding-left: 25px;
   }
   
   h3{
     font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px; 
     font-size: 180%;
-  }
-  
-  .mitakeRan{
-    color: #EE0022
-  }
-  .aobaMoca{
-    color: #00CCAA
-  }
-  .ueharaHimari{
-    color: #FF9999
-  }
-  .udagawaTomoe{
-    color: #BB0033
-  }
-  .hazawaTsugumi{
-    color: #FFEE88
-  }
-  
-  aside{
-    background-color: #FFDDDD;
+    background: rgba(255, 255, 255, 0.8);
     color: #E53344;
+  
   }
+  
+  div{
+    background: rgb(255, 255, 255, 0.7);
+    color:#E53344;
+    padding: 25px;
+  }
+
+.intro{
+  background: rgb(255, 255, 255, 0.8);
+  color:#E53344;
+  padding: 25px;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-size: 120%;
+}
+
+  div{
+    padding: 25px;
+  }
+
+  article{
+    padding: 50px;
+  }
+  
